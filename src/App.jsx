@@ -2,7 +2,7 @@ import { useState } from "react";
 import abi from "./abi.json";
 import { ethers } from "ethers";
 
-const contractAddress = "0x9D1eb059977D71E1A21BdebD1F700d4A39744A70";
+const contractAddress = "0xd10A0fEc90775204AA9f0af7b99f89f6a6Eb97e5";
 
 function App() {
   const [text, setText] = useState("");
